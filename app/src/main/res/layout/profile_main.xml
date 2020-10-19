@@ -393,7 +393,7 @@
                                 android:layout_width="wrap_content"
                                 android:layout_height="wrap_content"
                                 android:layout_marginLeft="20dp"
-                                android:text="+91 7999193854"
+                                android:text="+62 85850777619"
                                 android:textSize="15sp"
                                 android:textColor="@color/goodgrey"
                                 android:fontFamily="@font/proximanovaregular" />
@@ -418,7 +418,7 @@
                                 android:layout_height="wrap_content"
                                 android:layout_marginLeft="20dp"
                                 android:textColor="@color/goodgrey"
-                                android:text="sanskar@theindianappguy.com"
+                                android:text="alirbad08@gmail.com"
                                 android:textSize="15sp"
                                 android:fontFamily="@font/proximanovaregular" />
                         </LinearLayout>
@@ -441,7 +441,7 @@
                                 android:layout_width="wrap_content"
                                 android:layout_height="wrap_content"
                                 android:layout_marginLeft="20dp"
-                                android:text="Leeds, United Kingdom"
+                                android:text="Gresik, Jawa Timur, Indonesia"
                                 android:textSize="15sp"
                                 android:textColor="@color/goodgrey"
                                 android:fontFamily="@font/proximanovaregular" />
@@ -507,7 +507,7 @@
                                 android:layout_width="wrap_content"
                                 android:layout_height="wrap_content"
                                 android:layout_marginLeft="20dp"
-                                android:text="Expert in Photoshop, Adobe XD"
+                                android:text="Database design"
                                 android:textSize="15sp"/>
                         </LinearLayout>
 
@@ -529,7 +529,7 @@
                                 android:layout_width="wrap_content"
                                 android:layout_height="wrap_content"
                                 android:layout_marginLeft="20dp"
-                                android:text="sanskar@theindianappguy.com"
+                                android:text="alirbad08@gmail.com"
                                 android:textSize="15sp" />
                         </LinearLayout>
 
@@ -551,7 +551,7 @@
                                 android:layout_width="wrap_content"
                                 android:layout_height="wrap_content"
                                 android:layout_marginLeft="20dp"
-                                android:text="Leeds, United Kingdom"
+                                android:text="Gresik, Jawa Timur, Indonesia"
                                 android:textSize="15sp" />
                         </LinearLayout>
 
@@ -581,10 +581,10 @@
                         android:gravity="center_vertical">
 
                         <ImageView
-                            android:layout_width="40dp"
-                            android:layout_height="40dp"
+                            android:layout_width="50dp"
+                            android:layout_height="50dp"
                             android:padding="6dp"
-                            android:src="@drawable/playstore" />
+                            android:src="@drawable/youtube" />
 
                         <LinearLayout
                             android:layout_width="wrap_content"
@@ -596,7 +596,7 @@
                                 android:layout_width="wrap_content"
                                 android:layout_height="wrap_content"
                                 android:fontFamily="@font/proximanovaregular"
-                                android:text="Android Developer"
+                                android:text="Content Creator"
                                 android:textSize="14sp"
                                 android:textStyle="bold" />
 
@@ -605,7 +605,7 @@
                                 android:layout_height="wrap_content"
                                 android:layout_marginTop="3dp"
                                 android:fontFamily="@font/proximanovaregular"
-                                android:text="at TheIndianAppGuy"
+                                android:text="at Irbad Gabut"
                                 android:textSize="12sp" />
                         </LinearLayout>
                     </LinearLayout>
@@ -626,7 +626,7 @@
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:layout_marginStart="5dp"
-                            android:text="Sep 2010 - Jan 2013"
+                            android:text="Augus 2018 - now"
                             android:textSize="12sp"
                             android:textStyle="bold" />
                     </LinearLayout>
@@ -648,10 +648,10 @@
                         android:gravity="center_vertical">
 
                         <ImageView
-                            android:layout_width="40dp"
-                            android:layout_height="40dp"
+                            android:layout_width="50dp"
+                            android:layout_height="50dp"
                             android:padding="6dp"
-                            android:src="@drawable/android" />
+                            android:src="@drawable/potho" />
 
                         <LinearLayout
                             android:layout_width="wrap_content"
@@ -663,7 +663,7 @@
                                 android:layout_width="wrap_content"
                                 android:layout_height="wrap_content"
                                 android:fontFamily="@font/proximanovaregular"
-                                android:text="Android Developer"
+                                android:text="Pothograpy"
                                 android:textSize="14sp"
                                 android:textStyle="bold" />
 
@@ -672,7 +672,7 @@
                                 android:layout_height="wrap_content"
                                 android:layout_marginTop="3dp"
                                 android:fontFamily="@font/proximanovaregular"
-                                android:text="at TheIndianAppGuy"
+                                android:text="at Irbad Gabut"
                                 android:textSize="12sp" />
                         </LinearLayout>
                     </LinearLayout>
@@ -693,7 +693,7 @@
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:layout_marginStart="5dp"
-                            android:text="Sep 2010 - Jan 2013"
+                            android:text="Sep 2018 - now"
                             android:textSize="12sp"
                             android:textStyle="bold" />
                     </LinearLayout>
@@ -739,7 +739,7 @@
                                 android:layout_height="wrap_content"
                                 android:layout_marginTop="3dp"
                                 android:fontFamily="@font/proximanovaregular"
-                                android:text="at TheIndianAppGuy"
+                                android:text="at Irbad Gabut"
                                 android:textSize="12sp" />
                         </LinearLayout>
                     </LinearLayout>
@@ -760,7 +760,7 @@
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:layout_marginStart="5dp"
-                            android:text="Sep 2010 - Jan 2013"
+                            android:text="Sep 2020 - now"
                             android:textSize="12sp"
                             android:textStyle="bold" />
                     </LinearLayout>
